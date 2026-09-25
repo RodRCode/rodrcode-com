@@ -1,0 +1,3 @@
+# Custom domain parked until apex A/AAAA records exist (ops-bus #77).
+# Restore this file as CNAME (contents: rodrcode.com) after https://rodrcode.com resolves.
+rodrcode.com
