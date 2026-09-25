@@ -9,6 +9,7 @@ Public company hub for **RodRCode LLC** (Texas software).
 | `index.html` | Home — company intro, apps preview, contact |
 | `apps.html` | Apps — Connection Canvas & Pick and Peck |
 | `styles.css` | Shared light/dark-friendly styles |
+| `assets/` | App icons (web-sized PNGs) |
 
 Hosted on **GitHub Pages**. Custom domain: `rodrcode.com` (CNAME in repo).
 
