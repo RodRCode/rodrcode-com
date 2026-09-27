@@ -1,6 +1,6 @@
 # rodrcode.com
 
-Public company hub for **RodRCode LLC** (Texas software).
+Public company hub for **RodRCode LLC**.
 
 ## Pages
 
